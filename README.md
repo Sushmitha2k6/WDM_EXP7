@@ -1,4 +1,4 @@
-<img width="855" height="876" alt="image" src="https://github.com/user-attachments/assets/2c9ef8e4-e394-452a-ac40-d52d28f3971f" />### EX7 Implementation of Link Analysis using HITS Algorithm
+## EX7 Implementation of Link Analysis using HITS Algorithm
 ### DATE: 27-02-2026
 ### AIM: To implement Link Analysis using HITS Algorithm in Python.
 ### Description:
